@@ -1,5 +1,5 @@
 {
-    "name": "myCustom/builder",
+    "name": "my-custom/builder",
     "description": "make custom builder",
     "type": "library",
     "license": "MIT",
