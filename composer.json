@@ -12,8 +12,11 @@
             "email": "mohamedgammal55@gmail.com"
         }
     ],
-    "minimum-stability": "main",
-    "require": {},
+    "minimum-stability": "dev",
+    "require": {
+        "my-custom/builder": "^1.0"
+
+    },
     "autoload" : {
         "psr-0" : {
             "CustomBuilder" : "src/"
