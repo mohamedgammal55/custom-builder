@@ -12,7 +12,7 @@
             "email": "mohamedgammal55@gmail.com"
         }
     ],
-    "minimum-stability": "dev-main",
+    "minimum-stability": "dev",
     "require": {
         "my-custom/builder": "^1.0"
 
