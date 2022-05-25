@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Builders;
+namespace CustomBuilder;
 use Illuminate\Database\Eloquent\Builder;
 
 class CustomBuilder extends Builder
