@@ -14,7 +14,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "mine-bulider/builder-class-php": "dev-main"
+        "mine-bulider/builder-class-php": "v1.0.1"
     },
     "autoload" : {
         "psr-0" : {
