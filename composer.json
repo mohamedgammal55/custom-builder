@@ -13,10 +13,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "my-custom/builder": "^1.0"
-
-    },
+    "require": {},
     "autoload" : {
         "psr-0" : {
             "CustomBuilder" : "src/"
