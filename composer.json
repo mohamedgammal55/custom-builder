@@ -13,9 +13,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "php" : "7.2*"
-    },
+    "require": {},
     "autoload" : {
         "psr-0" : {
             "CustomBuilder" : "src/"
