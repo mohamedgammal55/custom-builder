@@ -1,0 +1,24 @@
+{
+    "name": "custom/builder",
+    "description": "make custom builder",
+    "type": "library",
+    "license": "MIT",
+    "keywords" : [
+        "laravel","custom","builder"
+    ],
+    "authors": [
+        {
+            "name": "mohamed gamal",
+            "email": "mohamedgammal55@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php" : "7.2*"
+    },
+    "autoload" : {
+        "psr-0" : {
+            "CustomBuilder" : "src/"
+        }
+    }
+}
