@@ -13,7 +13,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "mine-bulider/builder-class-php": "dev-main"
+    },
     "autoload" : {
         "psr-0" : {
             "CustomBuilder" : "src/"
